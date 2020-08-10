@@ -1,0 +1,90 @@
+body {
+    margin: 0 10%;
+    padding: 0;
+    font-family: 'Nunito Sans', sans-serif;
+}
+
+h1 {
+    font-size: 2em;
+}
+
+.conteiner {
+    border: 2px solid black;
+    margin: 10px auto;
+    padding: 10px;
+}
+
+.container_1 {
+    width: 100%;
+}
+
+.contener_one {
+    display: inline-block;
+    width: 32%;
+    text-align: center;
+    margin: 20px auto;
+    min-height: 100px;
+}
+
+.blue {
+    background-color:#2d5dcc ;
+    color: white;
+}
+.pink {
+    background-color: #d957d9;
+}
+
+.green {
+    background-color: #4fe0b0;
+}
+
+.beige {
+    background-color: #efd9ca;
+}
+
+/*блок второй*/
+
+.contener_text {
+    display: inline-block;
+    width: 49%;
+}
+.code_pro{
+    font-family: 'Source Code Pro', monospace;
+}
+
+.text {
+    text-decoration: underline;
+    font-size: 20px;
+}
+.text_two_pro {
+    font-weight: bold;
+}
+
+.text_three_pro {
+    font-style: italic;
+}
+
+.text_two_sans {
+    font-weight: bold;
+}
+
+.text_three_sans {
+    font-style: italic;
+}
+
+.poppins {
+    font-family: Popins, Helvetica, sans-serif;
+}
+
+.text_two_poppins {
+    font-weight: bold;
+}
+
+.text_three_poppins {
+    font-style: italic;
+}
+
+.contener_text_three_sans h1 {
+    font-weight: 700;
+    font-size: 26px;
+}
